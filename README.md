@@ -2,4 +2,4 @@
 
 <img src="https://github.com/Aye-Garcia/Calculator/blob/main/img/calculator.png" width="300" height="300" align="center">        
 
-<h4>https://github.com/Aye-Garcia/Calculator/blob/main/index.html</h4>
+<h4>https://aye-garcia.github.io/Calculator/</h4>
